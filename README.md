@@ -1,5 +1,9 @@
 ### Hi there 👋
-👯 I’m looking to collaborate on private project. 
+👯 I’m looking to collaborate on private project.   
+📫 How to reach me: [mail](arnaudoltra@hotmail.fr) or [LinkedIn](https://www.linkedin.com/in/arnaud-oltra/).
+🔭 I’m currently working on PHP systems 
+🌱 I’m currently learning JS (React & Vue.js) and Web3
+
 
 <!--
 **olarno/olarno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
