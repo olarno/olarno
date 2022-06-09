@@ -1,8 +1,8 @@
 ### Hi there 👋
 👯 I’m looking to collaborate on private project.   
-📫 How to reach me: [mail](arnaudoltra@hotmail.fr) or [LinkedIn](https://www.linkedin.com/in/arnaud-oltra/).
-🔭 I’m currently working on PHP systems 
-🌱 I’m currently learning JS (React & Vue.js) and Web3
+📫 How to reach me: [mail](arnaudoltra@hotmail.fr) or [LinkedIn](https://www.linkedin.com/in/arnaud-oltra/).  
+🔭 I’m currently working on PHP systems API & Databases  
+🌱 I’m currently learning Python (for fun) - JS (React & Vue.js) and Web3  
 
 
 <!--
