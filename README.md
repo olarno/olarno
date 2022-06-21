@@ -4,7 +4,7 @@
 🔭 I’m currently working on PHP systems API & Databases  
 🌱 I’m currently learning Python (for fun) - JS (React) and Web3  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=olarno&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=olarno&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
