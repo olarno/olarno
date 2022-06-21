@@ -4,6 +4,8 @@
 🔭 I’m currently working on PHP systems API & Databases  
 🌱 I’m currently learning Python (for fun) - JS (React) and Web3  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=olarno&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **olarno/olarno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
