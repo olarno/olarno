@@ -48,11 +48,11 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=olarno&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=olarno&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/olarno/olarno)
 
-[![Geoffrey's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olarno&theme=dark)](https://github.com/geoffreyemerit/geoffreyemerit)
+[![Geoffrey's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olarno&theme=dark)](https://github.com/olarno/olarno)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=olarno&theme=dark)](https://github.com/geoffreyemerit/geoffreyemerit)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=olarno&theme=dark)](https://github.com/olarno/olarno)
   
 <!--
 School
