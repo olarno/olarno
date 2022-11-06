@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
 </p>
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/arno_ol?style=social"> 
+[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/arno_ol?style=social">](https://twitter.com/arno_ol)
 <img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="StackOverFlow"/>
 
 
