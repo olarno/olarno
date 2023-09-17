@@ -9,8 +9,8 @@
 
 <h1 align+"left"> Last project </h1>h1>
 <p align="center">
-[FunnyQuote](https://packagist.org/packages/ol.arno/funny-quote-lib)
-  
+  <a href="https://packagist.org/packages/ol.arno/funny-quote-lib">Funny Quote - PHP library </a>
+ 
 </p>
 
 
