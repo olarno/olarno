@@ -7,7 +7,7 @@
 💬 <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />  
 ⚡ Fun fact: *Developers Prefer Star Wars to Star Trek.* 
 
-<h1 align+"left"> Last project </h1>h1>
+<h1 align+"left"> Last project </h1>
 <p align="center">
   <a href="https://packagist.org/packages/ol.arno/funny-quote-lib">Funny Quote - PHP library </a>
  
