@@ -48,6 +48,7 @@
       <p>
         I am available to support businesses from pre-startup to scale-up with my expertise. Additionally, I author a newsletter that explores the balance between corporate life and the journey of building SaaS products.
       </p>
+        <a href="https://www.linkedin.com/in/arnaud-oltra/" target="_blank">LinkedIn</i></a>
     </div>
   </section>
   
@@ -129,11 +130,6 @@
   <footer>
     <div class="container">
       <p>&copy; 2025 Arnaud Oltra. All rights reserved.</p>
-      <div class="social-links">
-        <a href="https://github.com/olarno" target="_blank"><i class="fab fa-github"></i></a>
-        <a href="https://www.linkedin.com/in/arnaud-oltra/" target="_blank"><i class="fab fa-linkedin"></i></a>
-        <!-- Add other social links if needed -->
-      </div>
     </div>
   </footer>
 </body>
