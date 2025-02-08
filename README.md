@@ -104,18 +104,14 @@
     <div class="container">
       <h2>My GitHub Statistics</h2>
       <div class="github-stats">
-<!--         <a href="https://github-readme-stats.vercel.app/api?username=olarno&show_icons=true&theme=darcula">
-          <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=olarno&show_icons=true&theme=darcula&card_width=320" />
+        <a href="https://git.io/streak-stats">
+          <img height="200" align="center" src="https://streak-stats.demolab.com?user=olarno&theme=darcula&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=760" alt="GitHub Streak" />
         </a>
-        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=olarno&layout=compact&theme=darcula">
-          <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olarno&layout=compact&theme=darcula&card_width=320" />
-        </a> -->
-<a href="https://git.io/streak-stats">
-  <img height="200" align="center" src="https://streak-stats.demolab.com?user=olarno&theme=darcula&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=640" alt="GitHub Streak" />
-</a>
-<!--         <a href="https://github-readme-stats.vercel.app/api/wakatime?username=olarno&layout=compact">
-          <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=olarno&layout=compact&theme=darcula&card_width=320" />
-        </a> -->
+        <br>
+        <br>
+         <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=olarno&layout=compact&theme=darcula">
+          <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olarno&layout=compact&theme=darcula&card_width=640" />
+        </a>
       </div>
     </div>
   </section>
