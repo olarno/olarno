@@ -86,8 +86,7 @@
           <h3>Terpsi Connect</h3>
           <p>TerpsiConnect transforms the way you experience nightlife by providing you with a dynamic interactive map to discover dance events near you. Whether you are passionate about dance or looking for an exciting night out, our application makes it easy to find the best dance venues and add new events in real-time.</p>
           <a href="https://terpsiconnect.com/" target="_blank">View Project</a>
-
-          
+          <br><br><br>
         </div>
         <div class="project">
           <img src="projet2.jpg" alt="funnyQuote_logo">
