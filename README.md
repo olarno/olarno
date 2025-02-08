@@ -110,9 +110,9 @@
         <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=olarno&layout=compact&theme=darcula">
           <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olarno&layout=compact&theme=darcula&card_width=320" />
         </a>
-        <a href="https://github-readme-stats.vercel.app/api/wakatime?username=olarno&layout=compact">
+<!--         <a href="https://github-readme-stats.vercel.app/api/wakatime?username=olarno&layout=compact">
           <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=olarno&layout=compact&theme=darcula&card_width=320" />
-        </a>
+        </a> -->
       </div>
     </div>
   </section>
