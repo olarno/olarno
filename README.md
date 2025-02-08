@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Professional Profile - Arnaud Oltra</title>
   <!-- Link to your custom stylesheet -->
   <link rel="stylesheet" href="styles.css">
   <!-- Optional: Link to Font Awesome for icons -->
