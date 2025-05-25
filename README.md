@@ -30,7 +30,6 @@
       <h3>
         Full stack Developer | PHP - JS - Python<br>
         Symfony Specialist, Advocate for Clean Code &amp; Efficiency<br>
-        Open Source Contributor
       </h3>
     </div>
   </section>
