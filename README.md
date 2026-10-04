@@ -1,135 +1,98 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Link to your custom stylesheet -->
-  <link rel="stylesheet" href="styles.css">
-  <!-- Optional: Link to Font Awesome for icons -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-</head>
-<body>
-  <!-- Main Navigation -->
-  <header>
-    <nav>
-      <ul class="navbar">
-        <li><a href="#home">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#competences">Skills</a></li>
-        <li><a href="#projets">Projects</a></li>
-        <li><a href="#stats">Statistics</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-    </nav>
-  </header>
-  
-  <!-- Section Home -->
-  <section id="home" class="section home">
-    <div class="container">
-      <h1>Arnaud Oltra</h1>
-      <h3>
-        Full stack Developer | PHP - JS - Python<br>
-        Symfony Specialist, Advocate for Clean Code &amp; Efficiency<br>
-      </h3>
-    </div>
-  </section>
-  
-  <!-- Section About Me -->
-  <section id="about" class="section about">
-    <div class="container">
-      <h2>About Me</h2>
-      <p>
-        I am a dedicated PHP developer with a passion for clean code and SOLID principles. While I remain a staunch advocate for PHP, I’m always ready to switch technologies when the need arises.
-      </p>
-      <p>
-        My professional life is a balanced blend of working as an in-house developer—helping companies with seamless migrations and the implementation of robust, scalable architectures—and dedicating my personal time to innovative projects. One of these projects is <strong>TerpsiConnect</strong>, a platform designed to connect amateur dancers with engaging social events.
-      </p>
-      <p>
-        I am available to support businesses from pre-startup to scale-up with my expertise. Additionally, I author a newsletter that explores the balance between corporate life and the journey of building SaaS products.
-      </p>
-        <a href="https://www.linkedin.com/in/arnaud-oltra/" target="_blank">LinkedIn</i></a>
-    </div>
-  </section>
-  
-  <!-- Section Skills -->
-  <section id="competences" class="section competences">
-    <div class="container">
-      <h1 align="left">💼 Skills</h1>
-      <p align="center">
-        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> 
-        <img src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/> 
-        <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JWT"/> 
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-      </p>
-      <h1 align="left">💻 Tools</h1>
-      <p align="center">
-        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>   
-        <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/>
-        <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/>
-      </p>
-    </div>
-  </section>
-  
-  <!-- Section Projects -->
-  <section id="projets" class="section projets">
-    <div class="container">
-      <h2>My Projects</h2>
-      <div class="projects-grid">
-        <div class="project">
-          <img src="projet1.png" alt="terpsiConnect_logo">
-          <h3>Terpsi Connect</h3>
-          <p>TerpsiConnect transforms the way you experience nightlife by providing you with a dynamic interactive map to discover dance events near you. Whether you are passionate about dance or looking for an exciting night out, our application makes it easy to find the best dance venues and add new events in real-time.</p>
-          <a href="https://terpsiconnect.com/" target="_blank">View Project</a>
-          <br><br><br>
-        </div>
-        <div class="project">
-          <img src="projet2.jpg" alt="funnyQuote_logo">
-          <h3>Funny-quote</h3>
-          <p>A library to generate funny quotes.</p>
-          <a href="https://packagist.org/packages/ol.arno/funny-quote-lib" target="_blank">View Project</a>
-        </div>
-        <!-- Add other projects if necessary -->
-      </div>
-    </div>
-  </section>
-  
-  <!-- Section GitHub Statistics -->
-  <section id="stats" class="section stats">
-    <div class="container">
-      <h2>My GitHub Statistics</h2>
-      <div class="github-stats">
-        <a href="https://git.io/streak-stats">
-          <img height="200" align="center" src="https://streak-stats.demolab.com?user=olarno&theme=darcula&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=760" alt="GitHub Streak" />
-        </a>
-        <br>
-        <br>
-         <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=olarno&layout=compact&theme=darcula">
-          <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olarno&layout=compact&theme=darcula&card_width=640" />
-        </a>
-      </div>
-    </div>
-  </section>
-  
-  <!-- Section Contact -->
-  <section id="contact" class="section contact">
-    <div class="container">
-      <h2>Contact Me</h2>
-      <p>For any collaboration requests or further information, feel free to contact me using the form below or by email at <a href="mailto:arnaudoltra@hotmail.fr">arnaudoltra@hotmail.fr</a>.</p>
-      <p>You can also schedule a discussion with me <a href="https://calendly.com/olarno/let-s-discuss-your-project?month=2025-02">here</a>.</p>
-    </div>
-  </section>
-  
-  <!-- Footer -->
-  <footer>
-    <div class="container">
-      <p>&copy; 2025 Arnaud Oltra. All rights reserved.</p>
-    </div>
-  </footer>
-</body>
-</html>
+<!--
+  README de profil GitHub — olarno/olarno
+  À coller tel quel dans README.md (GitHub affiche le HTML dans un README).
+  Seul le HTML « sûr » est utilisé : pas de <head>, <style>, <link>, class ni CSS,
+  que GitHub supprime de toute façon.
+-->
+
+<div align="center">
+  <img src="https://github.com/olarno.png?size=180" width="140" alt="Arnaud Oltra" />
+
+  <h1>Arnaud Oltra</h1>
+
+  <p>
+    <b>👨‍🍳 → 👨‍💻 Ancien chef cuisinier · développeur craft · fondateur d'Arkonium</b>
+  </p>
+
+  <p>
+    J'aide les équipes tech à retrouver un code qui dure : <b>audit, ateliers, mentorat</b>.<br />
+    Clean code, clean archi, Symfony. L'IA est mon commis : elle prépare, je goûte et je signe l'assiette.
+  </p>
+
+  <p>📍 Montréal · 🇫🇷 / 🇬🇧</p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/arnaud-oltra/"><img src="https://img.shields.io/badge/LinkedIn-Arnaud_Oltra-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://calendly.com/olarno/let-s-discuss-your-project"><img src="https://img.shields.io/badge/Réserver_un_appel-Calendly-006BFF?style=flat&logo=calendly&logoColor=white" alt="Réserver un appel" /></a>
+    <!-- À ajouter quand les liens sont prêts :
+    <a href="URL_NEWSLETTER"><img src="https://img.shields.io/badge/Newsletter-NOM-E34F26?style=flat" alt="Newsletter" /></a>
+    <a href="URL_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-Arnaud_Oltra-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="URL_ARKONIUM"><img src="https://img.shields.io/badge/Arkonium-site-111111?style=flat" alt="Arkonium" /></a>
+    -->
+  </p>
+</div>
+
+<details>
+  <summary><b>English</b></summary>
+  <br />
+  <p>
+    <b>Former chef turned craftsman developer, founder of Arkonium.</b><br />
+    I help tech teams get back to code that lasts: <b>audits, workshops, mentoring</b>.<br />
+    Clean code, clean architecture, Symfony. AI is my commis: it preps, I taste and sign off the plate.
+  </p>
+  <p>Montreal-based · speaking in French and English.</p>
+</details>
+
+<hr />
+
+<h2>🎤 Conférences · Talks</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Quand</th>
+      <th align="left">Où</th>
+      <th align="left">Talk</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- ConFoo 2027 : ajouter cette ligne si le talk est accepté (réponse le 19 octobre 2026)
+    <tr>
+      <td>Février 2027</td>
+      <td><b>ConFoo</b> Montréal</td>
+      <td>You Own It Now: Repatriating an Outsourced Application</td>
+    </tr>
+    -->
+    <tr>
+      <td>Novembre 2026</td>
+      <td><b>DEV/MTL</b></td>
+      <td>De la mise en place au coup de feu</td>
+    </tr>
+    <tr>
+      <td>Déjà donné</td>
+      <td><b>Symfony Day</b></td>
+      <td>Migrating a Symfony application in production</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>
+  Vous organisez un événement ? Je parle de craft, de migrations Symfony, de reprise d'applications et d'IA au service de la qualité.<br />
+  <sub><i>Organising an event? I talk about software craftsmanship, Symfony migrations, taking back outsourced apps, and AI-assisted quality.</i></sub>
+</p>
+
+<h2>🔪 En cuisine · What I'm cooking</h2>
+
+<ul>
+  <li><b>Craft assisté par IA</b> — expériences documentées : TDD, refactoring et revue de code avec des agents. <i>Bientôt en ligne.</i></li>
+  <li><b>Symfony + IA</b> — petits outils PHP pour garder la qualité quand l'IA écrit du code. <i>Bientôt en ligne.</i></li>
+  <li><a href="https://packagist.org/packages/ol.arno/funny-quote-lib"><b>funny-quote-lib</b></a> — ma librairie PHP open source sur Packagist.</li>
+</ul>
+
+<h2>🤝 Travailler ensemble · Work with me</h2>
+
+<p>
+  <b>Micro-audit → atelier → mentorat.</b> On commence par un état des lieux de votre code, sans engagement.<br />
+  👉 <a href="https://calendly.com/olarno/let-s-discuss-your-project">Réserver un appel</a> ·
+  <a href="https://www.linkedin.com/in/arnaud-oltra/">m'écrire sur LinkedIn</a>
+</p>
