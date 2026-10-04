@@ -6,17 +6,16 @@
 -->
 
 <div align="center">
-  <img src="https://github.com/olarno.png?size=180" width="140" alt="Arnaud Oltra" />
-
   <h1>Arnaud Oltra</h1>
 
   <p>
-    <b>👨‍🍳 → 👨‍💻 Ancien chef cuisinier · développeur craft · fondateur d'Arkonium</b>
+    <b>👨‍🍳 → 👨‍💻 Ancien chef cuisinier · développeur craft · fondateur d'<a href="https://arkonium.tech/">Arkonium</a></b>
   </p>
 
   <p>
     J'aide les équipes tech à retrouver un code qui dure : <b>audit, ateliers, mentorat</b>.<br />
-    Clean code, clean archi, Symfony. L'IA est mon commis : elle prépare, je goûte et je signe l'assiette.
+    Les mains dans PHP et Symfony, la tête dans l'architecture logicielle et de solution.<br />
+    L'IA est mon commis : elle prépare, je goûte et je signe l'assiette.
   </p>
 
   <p>📍 Montréal · 🇫🇷 / 🇬🇧</p>
@@ -24,10 +23,10 @@
   <p>
     <a href="https://www.linkedin.com/in/arnaud-oltra/"><img src="https://img.shields.io/badge/LinkedIn-Arnaud_Oltra-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://calendly.com/olarno/let-s-discuss-your-project"><img src="https://img.shields.io/badge/Réserver_un_appel-Calendly-006BFF?style=flat&logo=calendly&logoColor=white" alt="Réserver un appel" /></a>
+    <a href="https://arkonium.tech/"><img src="https://img.shields.io/badge/Arkonium-arkonium.tech-111111?style=flat" alt="Arkonium" /></a>
     <!-- À ajouter quand les liens sont prêts :
     <a href="URL_NEWSLETTER"><img src="https://img.shields.io/badge/Newsletter-NOM-E34F26?style=flat" alt="Newsletter" /></a>
     <a href="URL_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-Arnaud_Oltra-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
-    <a href="URL_ARKONIUM"><img src="https://img.shields.io/badge/Arkonium-site-111111?style=flat" alt="Arkonium" /></a>
     -->
   </p>
 </div>
@@ -38,12 +37,35 @@
   <p>
     <b>Former chef turned craftsman developer, founder of Arkonium.</b><br />
     I help tech teams get back to code that lasts: <b>audits, workshops, mentoring</b>.<br />
-    Clean code, clean architecture, Symfony. AI is my commis: it preps, I taste and sign off the plate.
+    Hands in PHP and Symfony, head in software and solution architecture.<br />
+    AI is my commis: it preps, I taste and sign off the plate.
   </p>
   <p>Montreal-based · speaking in French and English.</p>
 </details>
 
 <hr />
+
+<h2>🧑‍🍳 Ce que je fais · What I do</h2>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <b>Code</b><br />
+      PHP et Symfony au quotidien : clean code, tests, migrations, reprise de legacy.<br />
+      <sub><i>PHP &amp; Symfony, every day.</i></sub>
+    </td>
+    <td valign="top" width="33%">
+      <b>Architecture</b><br />
+      Logicielle (structure du code, découpage, dette) et de solution (choix technologiques, intégration, trajectoire).<br />
+      <sub><i>Software &amp; solution architecture.</i></sub>
+    </td>
+    <td valign="top" width="33%">
+      <b>Craft + IA</b><br />
+      Intégrer l'IA dans le cycle de développement sans sacrifier la qualité, quel que soit le langage.<br />
+      <sub><i>AI-assisted craft, language-agnostic.</i></sub>
+    </td>
+  </tr>
+</table>
 
 <h2>🎤 Conférences · Talks</h2>
 
@@ -77,16 +99,23 @@
 </table>
 
 <p>
-  Vous organisez un événement ? Je parle de craft, de migrations Symfony, de reprise d'applications et d'IA au service de la qualité.<br />
-  <sub><i>Organising an event? I talk about software craftsmanship, Symfony migrations, taking back outsourced apps, and AI-assisted quality.</i></sub>
+  Vous organisez un événement ? Je parle de craft, d'architecture, de migrations Symfony, de reprise d'applications et d'IA au service de la qualité.<br />
+  <sub><i>Organising an event? I talk about software craftsmanship, architecture, Symfony migrations, taking back outsourced apps, and AI-assisted quality.</i></sub>
 </p>
 
 <h2>🔪 En cuisine · What I'm cooking</h2>
 
 <ul>
   <li><b>Craft assisté par IA</b> — expériences documentées : TDD, refactoring et revue de code avec des agents. <i>Bientôt en ligne.</i></li>
-  <li><b>Symfony + IA</b> — petits outils PHP pour garder la qualité quand l'IA écrit du code. <i>Bientôt en ligne.</i></li>
+  <li><b>Garde-fous IA</b> — règles, revues et outillage pour garder la qualité quand l'IA écrit du code, en PHP comme ailleurs. <i>Bientôt en ligne.</i></li>
   <li><a href="https://packagist.org/packages/ol.arno/funny-quote-lib"><b>funny-quote-lib</b></a> — ma librairie PHP open source sur Packagist.</li>
+</ul>
+
+<h2>🌱 Communauté · Community</h2>
+
+<ul>
+  <li><a href="https://github.com/olarno/Symfony-quebec"><b>Symfony Québec</b></a> — organisation de la communauté Symfony au Québec.</li>
+  <li><a href="https://github.com/olarno/getrector-com"><b>Rector</b></a> — contributeur au site de Rector, l'outil de refactoring automatisé pour PHP.</li>
 </ul>
 
 <h2>🤝 Travailler ensemble · Work with me</h2>
